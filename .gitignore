@@ -87,3 +87,4 @@ dmypy.json
 venv/
 /static
 /media
+re_project/settings.py
